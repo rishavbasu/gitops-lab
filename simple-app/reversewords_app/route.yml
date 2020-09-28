@@ -3,7 +3,7 @@ kind: Route
 metadata:
   name: reverse-words
 spec:
-  host: reverse-words.2886795294-80-kota01.environments.katacoda.com
+  host: reversewords-rishav-dev.appdev-cloudnative-ocp43-6fb0b86391cd68c8282858623a1dddff-0000.eu-gb.containers.appdomain.cloud
   port:
     targetPort: http
   tls:
